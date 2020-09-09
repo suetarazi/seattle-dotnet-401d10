@@ -11,6 +11,7 @@ types as needed a bit more naturally then when you start out.
 
 ## Numeric
 
+
 ### Integral types
 
 Type  | Bytes | Range |
